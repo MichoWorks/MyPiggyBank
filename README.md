@@ -34,7 +34,7 @@ We take the security and privacy of your financial data seriously. "My Piggy Ban
 
 ## License
 
-"My Piggy Bank" is open-source and licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more details.
+"My Piggy Bank" is open-source and licensed under the MIT License. See the [LICENSE.md](https://github.com/MichoWorks/MyPiggyBank/blob/main/LICENSE) file for more details.
 
 ## Disclaimer
 
