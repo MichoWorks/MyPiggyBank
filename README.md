@@ -22,7 +22,7 @@ To access "My Piggy Bank" online, simply visit [https://www.mypiggybank.com](htt
 
 ## Contributing
 
-We welcome contributions from the open-source community. If you have ideas for improvements or would like to contribute to "My Piggy Bank," please follow our [contributing guidelines](CONTRIBUTING.md).
+We welcome contributions from the open-source community. If you have ideas for improvements or would like to contribute to "My Piggy Bank," please follow our [contributing guidelines](https://github.com/MichoWorks/MyPiggyBank/blob/main/CONTRIBUTING.md).
 
 ## Support
 
