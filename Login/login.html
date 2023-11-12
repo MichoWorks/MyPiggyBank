@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+
+    <!--- My CSS Link-->
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+    <main>
+        <section class="learn">
+           <h1>My Piggy Bank<br></h1>
+           <p>"My Piggy Bank" is an online webpage that empowers you to take control of your finances <br> set savings goals, and track your progress toward achieving them.  <br> This simple and user-friendly web application is designed to help you save money and build a better financial future.</p>  
+        </section>
+
+       
+
+            
+    <div class="sign-up">
+        <form action="post" class="signup-form" data-netlify="true">
+            <div class="form-btn">
+                <input type="email" placeholder="Email Address" required>
+                <img class="icon" src="./Images/icon-error.svg" alt="Error">
+                <p class="msg">Looks like this is not an email</p>
+            </div>
+
+            <div class="form-btn">
+                <input type="password" placeholder="Password" required>
+                <img class="icon" src="./Images/icon-error.svg" alt="Error">
+                <p class="msg">Password cannot be empty</p>
+            </div>
+
+            <input id="submit-btn" type="button" value="Log In" id="btn">
+            <p class="terms">Don't have an account? <span><a href="/Register/register.html">Register</a></span></p>
+            <p class="terms">By clicking the button, you are agreeing to our <span><a href="/Tns/tns.html">Terms and Services</a></span></p>
+        </form>
+        </section>
+    </main>
+    
+</body>
+</html>
